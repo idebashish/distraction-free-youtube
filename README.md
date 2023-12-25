@@ -8,6 +8,8 @@ Distraction-Free YouTube is a Chrome extension designed to enhance productivity 
 - **Search-Focused**: Retains the search functionality for intentional content consumption.
 - **User-Friendly**: Easy to use with a minimalistic approach.
 
+## Download & Use
+[Download from Chrome Web Store](https://chromewebstore.google.com/detail/distrctionfree-yt/ppodcnnfedelbjlgchmllmnajohglenp)
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
