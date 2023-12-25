@@ -13,4 +13,4 @@ Distraction-Free YouTube is a Chrome extension designed to enhance productivity 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [Your Email](mailto:debashishsahoo63@gmail.com.com)
+Debashish Sahoo - [Your Email](mailto:debashishsahoo63@gmail.com.com)
